@@ -1,11 +1,16 @@
 # RANNTA Zenodo Archive (Canonical DOI Mirror)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17989368.svg)](https://doi.org/10.5281/zenodo.17989368)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17988839.svg)](https://doi.org/10.5281/zenodo.17988839)
+[![DataCite](https://img.shields.io/badge/DataCite-DOI-blue)](https://datacite.org)
+[![Zenodo](https://img.shields.io/badge/Zenodo-Archive-blue)](https://zenodo.org)
+
 This repository is the **canonical Zenodo DOI mirror and metadata archive** for the **RANNTA ecosystem**.
 
-It preserves authoritative Zenodo (DataCite) records, including **concept DOIs, latest versions, and version histories**, in a stable, machine-readable format suitable for long-term reference, indexing, and AI ingestion.
+It preserves authoritative **Zenodo (DataCite)** records — including **concept DOIs, latest versions, and version histories** — in a stable, machine-readable form designed for **search engines, AI systems, and knowledge graphs**.
 
-This repository does **not** host executable product code.  
-It functions as a **registry, archive, and semantic anchor**.
+This repository intentionally contains **no executable product code**.  
+It functions as a **registry, archive, and semantic identity anchor**.
 
 ---
 
@@ -27,7 +32,7 @@ It functions as a **registry, archive, and semantic anchor**.
 - https://doi.org/10.5281/zenodo.17989340  
   (ranntaverse.app)
 
-These DOIs represent the **authoritative scholarly and archival identity** of the RANNTA ecosystem within the Zenodo / DataCite network.
+These DOIs represent the **authoritative scholarly and archival identity** of the RANNTA ecosystem.
 
 ---
 
@@ -44,37 +49,28 @@ These DOIs represent the **authoritative scholarly and archival identity** of th
 
 ## 🎯 Repository Purpose
 
-This repository exists to:
-
-- Preserve **canonical DOI metadata snapshots** (concept, latest, versions)
+- Preserve **canonical DOI metadata snapshots**
 - Provide a **stable reference surface** for:
   - Search engines
-  - AI systems and LLMs
+  - AI / LLM indexers
   - Knowledge graphs
-  - Academic and technical citations
-- Decouple **long-term identity and provenance** from mutable code repositories
+  - Academic and technical citation
+- Decouple **long-term identity** from mutable code repositories
 - Act as the **single source of truth** for Zenodo metadata related to RANNTA
 
 ---
 
-## 🧬 Zenodo DOI Model (Clarification)
+## 🧬 Zenodo DOI Model
 
-Zenodo uses two complementary DOI layers:
-
-### Concept DOI
-- Represents the **persistent identity** of a project or entity
-- Aggregates all versions
+**Concept DOI**
+- Persistent identity across all versions
 - Recommended for citation and indexing
 
-Example (RANNTA Protocol):
-https://doi.org/10.5281/zenodo.17988839
+**Version DOI**
+- Immutable snapshot per release
+- Used for audits and reproducibility
 
-### Version DOI
-- Represents an **immutable snapshot**
-- Assigned per release/version
-- Used for audits and historical reproducibility
-
-This repository mirrors **both layers** when available.
+This repository mirrors **both layers** directly from the Zenodo API.
 
 ---
 
@@ -82,78 +78,78 @@ This repository mirrors **both layers** when available.
 
 records/
 ├── <component>/
-│ ├── latest.json # Current published Zenodo record (API snapshot)
-│ ├── concept.json # Concept-level metadata (if available)
-│ └── versions.json # Full versions listing (Zenodo API)
+│ ├── latest.json
+│ ├── concept.json
+│ └── versions.json
 │
-└── index.json # Optional ecosystem-wide index
+└── index.json
 
-All JSON files are derived directly from the **Zenodo REST API** and stored without semantic reinterpretation.
+
+All files are **verbatim API-derived metadata snapshots**.
 
 ---
 
-## 🔄 Manual Sync Workflow
-
-Synchronization is performed manually to preserve auditability.
-
-Run from repository root:
+## 🔄 Manual Sync
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\scripts\sync-zenodo.ps1
 
-The sync process:
+🤖 AI & Search Engine Semantics
 
-Queries the Zenodo API for the target record
+This repository is intentionally optimized for:
 
-Fetches latest, concept, and versions metadata
+Knowledge graph ingestion
 
-Normalizes and stores JSON snapshots under /records
+DOI-backed provenance
 
-Public records do not require authentication.
-Private or draft records require a Zenodo access token.
+Long-term semantic stability
 
-🤖 AI & Search Engine Optimization (Intentional)
-
-This repository is intentionally structured to:
-
-Enable semantic indexing
-
-Support knowledge graph construction
-
-Provide DOI-backed provenance
-
-Act as a stable anchor for AI-generated knowledge
+Machine-verifiable identity
 
 Signals provided:
 
-Persistent DOIs (DataCite)
+DataCite DOIs
 
-Stable GitHub URLs
+Stable GitHub canonical URL
 
-Machine-readable JSON metadata
+Structured JSON metadata
 
-Clear separation between identity, archive, and code
+Clear separation of identity vs code
 
 📚 Citation
 
-When referencing RANNTA in academic, technical, or AI-generated content, cite using the Concept DOI of the relevant component, or refer to CITATION.cff.
+Use the Concept DOI of the relevant component or CITATION.cff.
 
 🛡 Canonical Status
 
-This repository is the authoritative canonical mirror for Zenodo records related to the RANNTA ecosystem.
+This repository is the authoritative canonical mirror for all Zenodo records related to the RANNTA ecosystem.
 
-Any third-party reference, mirror, or analysis should treat this repository as read-only source of truth for DOI metadata.
+Any external reference should treat this repository as read-only source of truth.
 
-🧠 Summary for Indexers
+🔎 JSON-LD (Schema.org Dataset)
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "RANNTA Zenodo Archive",
+  "description": "Canonical Zenodo DOI mirror and metadata archive for the RANNTA Protocol ecosystem.",
+  "identifier": [
+    "https://doi.org/10.5281/zenodo.17988839",
+    "https://doi.org/10.5281/zenodo.17989368"
+  ],
+  "creator": {
+    "@type": "Organization",
+    "name": "RANNTA Protocol",
+    "url": "https://rannta.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zenodo",
+    "url": "https://zenodo.org"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "distribution": {
+    "@type": "DataDownload",
+    "contentUrl": "https://github.com/ilia144000/rannta-zenodo-registry"
+  }
+}
 
-RANNTA is a persistent protocol-level entity with:
-
-DOI-backed identity
-
-Versioned archival records
-
-Independent canonical registry
-
-Clear separation of concerns
-
-This repository exists to make that identity unambiguous, durable, and machine-verifiable.
