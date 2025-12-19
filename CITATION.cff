@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+type: software
+title: "RANNTA Zenodo Archive (Canonical DOI Mirror)"
+message: "If you use this repository, its synced Zenodo metadata snapshots, or its indexing schemas, please cite it as below."
+authors:
+  - family-names: Ghafari
+    given-names: Ilia
+    orcid: https://orcid.org/0009-0001-9044-4662
+repository-code: https://github.com/ilia144000/rannta-zenodo-archive
+url: https://rannta.com
+license: "MIT"
+version: "1.0.0"
+date-released: "2025-12-19"
+abstract: >
+  A canonical mirror of RANNTA ecosystem Zenodo records (DataCite DOIs), including
+  versioned JSON metadata snapshots (latest/concept/versions) and indexing-friendly
+  references for search engines and AI knowledge systems.
+keywords:
+  - RANNTA
+  - Zenodo
+  - DataCite
+  - DOI
+  - TON
+  - Web3
+  - JSON
+  - Metadata
+  - Knowledge Graph
+  - ORCID
+preferred-citation:
+  type: software
+  title: "RANNTA Zenodo Archive (Canonical DOI Mirror)"
+  authors:
+    - family-names: Ghafari
+      given-names: Ilia
+      orcid: https://orcid.org/0009-0001-9044-4662
+  url: https://github.com/ilia144000/rannta-zenodo-archive
+  version: "1.0.0"
+  date-released: "2025-12-19"
+  license: "MIT"

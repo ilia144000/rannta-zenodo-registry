@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "RANNTA Zenodo Archive (Canonical DOI Mirror)",
+  "description": "A GitHub repository that mirrors official Zenodo (DataCite) records and versioned JSON metadata snapshots for the RANNTA ecosystem.",
+  "url": "https://github.com/ilia144000/rannta-zenodo-archive",
+  "creator": {
+    "@type": "Person",
+    "name": "Ilia Ghafari",
+    "identifier": "https://orcid.org/0009-0001-9044-4662",
+    "url": "https://github.com/ilia144000"
+  },
+  "keywords": [
+    "RANNTA",
+    "Zenodo",
+    "DataCite",
+    "DOI",
+    "TON",
+    "Web3",
+    "JSON",
+    "Metadata",
+    "Knowledge Graph",
+    "ORCID"
+  ],
+  "sameAs": [
+    "https://doi.org/10.5281/zenodo.17989368",
+    "https://doi.org/10.5281/zenodo.17988923",
+    "https://doi.org/10.5281/zenodo.17989262",
+    "https://doi.org/10.5281/zenodo.17989340"
+  ],
+  "isBasedOn": ["https://zenodo.org"],
+  "mainEntityOfPage": "https://github.com/ilia144000/rannta-zenodo-archive"
+}

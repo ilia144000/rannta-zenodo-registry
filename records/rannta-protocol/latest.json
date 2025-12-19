@@ -1,0 +1,146 @@
+﻿{
+    "created":  "2025-12-19T14:46:29.494259+00:00",
+    "modified":  "2025-12-19T14:46:29.781062+00:00",
+    "id":  17989368,
+    "conceptrecid":  "17988839",
+    "doi":  "10.5281/zenodo.17989368",
+    "conceptdoi":  "10.5281/zenodo.17988839",
+    "doi_url":  "https://doi.org/10.5281/zenodo.17989368",
+    "metadata":  {
+                     "title":  "RANNTA Protocol — Canonical On-Chain Protocol Entity",
+                     "doi":  "10.5281/zenodo.17989368",
+                     "publication_date":  "2025-08-30",
+                     "description":  "\u003cp\u003eRANNTA Protocol is a canonical on-chain protocol entity built on The Open Network (TON). It defines the identity, symbolic framework, and coordination layer for the RANNTA ecosystem.\u003c/p\u003e\n\u003cp\u003eThe protocol governs and unifies multiple functional components under a single canonical identity, including NFT marketplaces, wallets, and ecosystem interfaces. RANNTA Protocol acts as the root reference for all RANNTA-related digital objects and services.\u003c/p\u003e\n\u003cp\u003ePrimary components governed by the protocol:\u003cbr\u003e\u0026bull; RANNTAverse \u0026mdash; NFT Marketplace\u003cbr\u003e\u0026bull; ArcWallet \u0026mdash; TON-native wallet\u003cbr\u003e\u0026bull; RANNTA Ecosystem Website\u003c/p\u003e\n\u003cp\u003eOfficial ecosystem interfaces:\u003cbr\u003e\u0026bull; Protocol \u0026amp; identity hub: https://rannta.com\u003cbr\u003e\u0026bull; NFT marketplace: https://ranntaverse.art\u003cbr\u003e\u0026bull; Application interface: https://ranntaverse.app\u003c/p\u003e\n\u003cp\u003eOfficial channels:\u003cbr\u003e\u0026bull; Telegram: https://t.me/Rannta_coin\u003cbr\u003e\u0026bull; X (Twitter): https://x.com/ranntacoin\u003cbr\u003e\u0026bull; GitHub (Founder): https://github.com/ilia144000\u003c/p\u003e\n\u003cp\u003eThis record serves as the primary canonical reference (root entity) for the entire RANNTA ecosystem.\u003c/p\u003e",
+                     "access_right":  "open",
+                     "creators":  [
+                                      {
+                                          "name":  "ghafari, ilia",
+                                          "affiliation":  null
+                                      }
+                                  ],
+                     "keywords":  [
+                                      "RANNTA RANNTA Protocol TON The Open Network Blockchain Protocol Protocol Entity Web3 NFT Infrastructure Decentralized Ecosystem Mythosymbolic Fractalism MSF TON Jetton On-chain Identity"
+                                  ],
+                     "related_identifiers":  [
+                                                 {
+                                                     "identifier":  "10.5281/zenodo.17988923",
+                                                     "relation":  "hasPart",
+                                                     "resource_type":  "software",
+                                                     "scheme":  "doi"
+                                                 },
+                                                 {
+                                                     "identifier":  "10.5281/zenodo.17989262",
+                                                     "relation":  "hasPart",
+                                                     "resource_type":  "software",
+                                                     "scheme":  "doi"
+                                                 },
+                                                 {
+                                                     "identifier":  "10.5281/zenodo.17989340",
+                                                     "relation":  "hasPart",
+                                                     "resource_type":  "other",
+                                                     "scheme":  "doi"
+                                                 }
+                                             ],
+                     "dates":  [
+                                   {
+                                       "type":  "issued"
+                                   }
+                               ],
+                     "version":  "1.0",
+                     "language":  "eng",
+                     "resource_type":  {
+                                           "title":  "Software",
+                                           "type":  "software"
+                                       },
+                     "license":  {
+                                     "id":  "mit-license"
+                                 },
+                     "relations":  {
+                                       "version":  [
+                                                       {
+                                                           "index":  1,
+                                                           "is_last":  true,
+                                                           "parent":  {
+                                                                          "pid_type":  "recid",
+                                                                          "pid_value":  "17988839"
+                                                                      }
+                                                       }
+                                                   ]
+                                   }
+                 },
+    "title":  "RANNTA Protocol — Canonical On-Chain Protocol Entity",
+    "links":  {
+                  "self":  "https://zenodo.org/api/records/17989368",
+                  "self_html":  "https://zenodo.org/records/17989368",
+                  "preview_html":  "https://zenodo.org/records/17989368?preview=1",
+                  "doi":  "https://doi.org/10.5281/zenodo.17989368",
+                  "self_doi":  "https://doi.org/10.5281/zenodo.17989368",
+                  "self_doi_html":  "https://zenodo.org/doi/10.5281/zenodo.17989368",
+                  "reserve_doi":  "https://zenodo.org/api/records/17989368/draft/pids/doi",
+                  "parent":  "https://zenodo.org/api/records/17988839",
+                  "parent_html":  "https://zenodo.org/records/17988839",
+                  "parent_doi":  "https://doi.org/10.5281/zenodo.17988839",
+                  "parent_doi_html":  "https://zenodo.org/doi/10.5281/zenodo.17988839",
+                  "self_iiif_manifest":  "https://zenodo.org/api/iiif/record:17989368/manifest",
+                  "self_iiif_sequence":  "https://zenodo.org/api/iiif/record:17989368/sequence/default",
+                  "files":  "https://zenodo.org/api/records/17989368/files",
+                  "media_files":  "https://zenodo.org/api/records/17989368/media-files",
+                  "thumbnails":  {
+                                     "10":  "https://zenodo.org/api/iiif/record:17989368:rannta-protocol-logo.png/full/%5E10,/0/default.jpg",
+                                     "50":  "https://zenodo.org/api/iiif/record:17989368:rannta-protocol-logo.png/full/%5E50,/0/default.jpg",
+                                     "100":  "https://zenodo.org/api/iiif/record:17989368:rannta-protocol-logo.png/full/%5E100,/0/default.jpg",
+                                     "250":  "https://zenodo.org/api/iiif/record:17989368:rannta-protocol-logo.png/full/%5E250,/0/default.jpg",
+                                     "750":  "https://zenodo.org/api/iiif/record:17989368:rannta-protocol-logo.png/full/%5E750,/0/default.jpg",
+                                     "1200":  "https://zenodo.org/api/iiif/record:17989368:rannta-protocol-logo.png/full/%5E1200,/0/default.jpg"
+                                 },
+                  "archive":  "https://zenodo.org/api/records/17989368/files-archive",
+                  "archive_media":  "https://zenodo.org/api/records/17989368/media-files-archive",
+                  "latest":  "https://zenodo.org/api/records/17989368/versions/latest",
+                  "latest_html":  "https://zenodo.org/records/17989368/latest",
+                  "versions":  "https://zenodo.org/api/records/17989368/versions",
+                  "draft":  "https://zenodo.org/api/records/17989368/draft",
+                  "access_links":  "https://zenodo.org/api/records/17989368/access/links",
+                  "access_grants":  "https://zenodo.org/api/records/17989368/access/grants",
+                  "access_users":  "https://zenodo.org/api/records/17989368/access/users",
+                  "access_request":  "https://zenodo.org/api/records/17989368/access/request",
+                  "access":  "https://zenodo.org/api/records/17989368/access",
+                  "communities":  "https://zenodo.org/api/records/17989368/communities",
+                  "communities-suggestions":  "https://zenodo.org/api/records/17989368/communities-suggestions",
+                  "request_deletion":  "https://zenodo.org/api/records/17989368/request-deletion",
+                  "file_modification":  "https://zenodo.org/api/records/17989368/file-modification",
+                  "requests":  "https://zenodo.org/api/records/17989368/requests"
+              },
+    "updated":  "2025-12-19T14:46:29.781062+00:00",
+    "recid":  "17989368",
+    "revision":  3,
+    "files":  [
+                  {
+                      "id":  "a8f4858e-1a3d-4c04-bc4d-5e2aa8880f23",
+                      "key":  "rannta-protocol-logo.png",
+                      "size":  82928,
+                      "checksum":  "md5:730f66c4c8d26fb5eb6126c677509196",
+                      "links":  {
+                                    "self":  "https://zenodo.org/api/records/17989368/files/rannta-protocol-logo.png/content"
+                                }
+                  }
+              ],
+    "swh":  null,
+    "owners":  [
+                   {
+                       "id":  "1388508"
+                   }
+               ],
+    "status":  "published",
+    "stats":  {
+                  "downloads":  0,
+                  "unique_downloads":  0,
+                  "views":  3,
+                  "unique_views":  3,
+                  "version_downloads":  0,
+                  "version_unique_downloads":  0,
+                  "version_unique_views":  1,
+                  "version_views":  1
+              },
+    "state":  "done",
+    "submitted":  true
+}

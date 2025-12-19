@@ -1,0 +1,13 @@
+{
+  "generated_at": "2025-12-19",
+  "parent": {
+    "name": "RANNTA Protocol",
+    "doi": "10.5281/zenodo.17989368",
+    "concept_doi": "10.5281/zenodo.17988839"
+  },
+  "children": [
+    { "name": "RANNTAverse", "doi": "10.5281/zenodo.17988923", "concept_doi": "10.5281/zenodo.17988347" },
+    { "name": "RANNTA ArcWallet", "doi": "10.5281/zenodo.17989262", "concept_doi": "10.5281/zenodo.17989261" },
+    { "name": "RANNTA Ecosystem Website (ranntaverse.app)", "doi": "10.5281/zenodo.17989340", "concept_doi": "10.5281/zenodo.17989339" }
+  ]
+}

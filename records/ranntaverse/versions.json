@@ -1,0 +1,272 @@
+﻿{
+    "hits":  {
+                 "hits":  [
+                              {
+                                  "created":  "2025-12-19T14:10:17.202212+00:00",
+                                  "modified":  "2025-12-19T14:10:17.535990+00:00",
+                                  "id":  17988923,
+                                  "conceptrecid":  "17988347",
+                                  "doi":  "10.5281/zenodo.17988923",
+                                  "conceptdoi":  "10.5281/zenodo.17988347",
+                                  "doi_url":  "https://doi.org/10.5281/zenodo.17988923",
+                                  "metadata":  {
+                                                   "title":  "RANNTAverse — TON-Native NFT Marketplace",
+                                                   "doi":  "10.5281/zenodo.17988923",
+                                                   "publication_date":  "2025-12-19",
+                                                   "description":  "\u003cp\u003eRANNTAverse is a TON-native and multi-chain NFT marketplace that operates as a core production layer of the RANNTA Protocol ecosystem. It enables minting, direct listings, auctions, and symbolic digital assets aligned with Mythosymbolic Fractalism (MSF).\u003c/p\u003e\n\u003cp\u003eThe RANNTA ecosystem is structured across distinct canonical interfaces:\u003cbr\u003e\u0026bull; Marketplace (primary): https://ranntaverse.art\u003cbr\u003e\u0026bull; Ecosystem \u0026amp; protocol identity: https://rannta.com\u003cbr\u003e\u0026bull; Application interface: https://ranntaverse.app\u003c/p\u003e\n\u003cp\u003eRANNTAverse functions as the execution and distribution layer for NFT creation and exchange, while the RANNTA Protocol defines the canonical on-chain identity and symbolic framework.\u003c/p\u003e\n\u003cp\u003eOfficial channels:\u003cbr\u003e\u0026bull; Telegram: https://t.me/Rannta_coin\u003cbr\u003e\u0026bull; X (Twitter): https://x.com/ranntacoin\u003cbr\u003e\u0026bull; GitHub (Founder): https://github.com/ilia144000\u003c/p\u003e\n\u003cp\u003eCanonical reference: RANNTA Knowledge Hub (Zenodo)\u003c/p\u003e",
+                                                   "access_right":  "open",
+                                                   "creators":  [
+                                                                    {
+                                                                        "name":  "Ghafari, ilia",
+                                                                        "affiliation":  "RANNTA Protocol",
+                                                                        "orcid":  "0009-0001-9044-4662"
+                                                                    }
+                                                                ],
+                                                   "keywords":  [
+                                                                    "RANNTA, Blockchain Protocol, TON, Crypto Ecosystem, Web3"
+                                                                ],
+                                                   "related_identifiers":  [
+                                                                               {
+                                                                                   "identifier":  "10.5281/zenodo.17988840",
+                                                                                   "relation":  "isPartOf",
+                                                                                   "resource_type":  "software",
+                                                                                   "scheme":  "doi"
+                                                                               }
+                                                                           ],
+                                                   "dates":  [
+                                                                 {
+                                                                     "type":  "issued"
+                                                                 }
+                                                             ],
+                                                   "version":  "1.1",
+                                                   "language":  "eng",
+                                                   "resource_type":  {
+                                                                         "title":  "Software",
+                                                                         "type":  "software"
+                                                                     },
+                                                   "license":  {
+                                                                   "id":  "mit-license"
+                                                               },
+                                                   "relations":  {
+                                                                     "version":  [
+                                                                                     {
+                                                                                         "index":  1,
+                                                                                         "is_last":  true,
+                                                                                         "parent":  {
+                                                                                                        "pid_type":  "recid",
+                                                                                                        "pid_value":  "17988347"
+                                                                                                    }
+                                                                                     }
+                                                                                 ]
+                                                                 }
+                                               },
+                                  "title":  "RANNTAverse — TON-Native NFT Marketplace",
+                                  "links":  {
+                                                "self":  "https://zenodo.org/api/records/17988923",
+                                                "self_html":  "https://zenodo.org/records/17988923",
+                                                "preview_html":  "https://zenodo.org/records/17988923?preview=1",
+                                                "doi":  "https://doi.org/10.5281/zenodo.17988923",
+                                                "self_doi":  "https://doi.org/10.5281/zenodo.17988923",
+                                                "self_doi_html":  "https://zenodo.org/doi/10.5281/zenodo.17988923",
+                                                "reserve_doi":  "https://zenodo.org/api/records/17988923/draft/pids/doi",
+                                                "parent":  "https://zenodo.org/api/records/17988347",
+                                                "parent_html":  "https://zenodo.org/records/17988347",
+                                                "parent_doi":  "https://doi.org/10.5281/zenodo.17988347",
+                                                "parent_doi_html":  "https://zenodo.org/doi/10.5281/zenodo.17988347",
+                                                "self_iiif_manifest":  "https://zenodo.org/api/iiif/record:17988923/manifest",
+                                                "self_iiif_sequence":  "https://zenodo.org/api/iiif/record:17988923/sequence/default",
+                                                "files":  "https://zenodo.org/api/records/17988923/files",
+                                                "media_files":  "https://zenodo.org/api/records/17988923/media-files",
+                                                "thumbnails":  {
+                                                                   "10":  "https://zenodo.org/api/iiif/record:17988923:rannta-protocol-logo.png/full/%5E10,/0/default.jpg",
+                                                                   "50":  "https://zenodo.org/api/iiif/record:17988923:rannta-protocol-logo.png/full/%5E50,/0/default.jpg",
+                                                                   "100":  "https://zenodo.org/api/iiif/record:17988923:rannta-protocol-logo.png/full/%5E100,/0/default.jpg",
+                                                                   "250":  "https://zenodo.org/api/iiif/record:17988923:rannta-protocol-logo.png/full/%5E250,/0/default.jpg",
+                                                                   "750":  "https://zenodo.org/api/iiif/record:17988923:rannta-protocol-logo.png/full/%5E750,/0/default.jpg",
+                                                                   "1200":  "https://zenodo.org/api/iiif/record:17988923:rannta-protocol-logo.png/full/%5E1200,/0/default.jpg"
+                                                               },
+                                                "archive":  "https://zenodo.org/api/records/17988923/files-archive",
+                                                "archive_media":  "https://zenodo.org/api/records/17988923/media-files-archive",
+                                                "latest":  "https://zenodo.org/api/records/17988923/versions/latest",
+                                                "latest_html":  "https://zenodo.org/records/17988923/latest",
+                                                "versions":  "https://zenodo.org/api/records/17988923/versions",
+                                                "draft":  "https://zenodo.org/api/records/17988923/draft",
+                                                "access_links":  "https://zenodo.org/api/records/17988923/access/links",
+                                                "access_grants":  "https://zenodo.org/api/records/17988923/access/grants",
+                                                "access_users":  "https://zenodo.org/api/records/17988923/access/users",
+                                                "access_request":  "https://zenodo.org/api/records/17988923/access/request",
+                                                "access":  "https://zenodo.org/api/records/17988923/access",
+                                                "communities":  "https://zenodo.org/api/records/17988923/communities",
+                                                "communities-suggestions":  "https://zenodo.org/api/records/17988923/communities-suggestions",
+                                                "request_deletion":  "https://zenodo.org/api/records/17988923/request-deletion",
+                                                "file_modification":  "https://zenodo.org/api/records/17988923/file-modification",
+                                                "requests":  "https://zenodo.org/api/records/17988923/requests"
+                                            },
+                                  "updated":  "2025-12-19T14:10:17.535990+00:00",
+                                  "recid":  "17988923",
+                                  "revision":  3,
+                                  "files":  [
+                                                {
+                                                    "id":  "32cfdda1-fdfd-4b36-8b90-db58b6e3486b",
+                                                    "key":  "rannta-protocol-logo.png",
+                                                    "size":  82928,
+                                                    "checksum":  "md5:730f66c4c8d26fb5eb6126c677509196",
+                                                    "links":  {
+                                                                  "self":  "https://zenodo.org/api/records/17988923/files/rannta-protocol-logo.png/content"
+                                                              }
+                                                }
+                                            ],
+                                  "swh":  null,
+                                  "owners":  [
+                                                 {
+                                                     "id":  "1388508"
+                                                 }
+                                             ],
+                                  "status":  "published",
+                                  "stats":  {
+                                                "downloads":  1,
+                                                "unique_downloads":  1,
+                                                "views":  6,
+                                                "unique_views":  4,
+                                                "version_downloads":  1,
+                                                "version_unique_downloads":  1,
+                                                "version_unique_views":  2,
+                                                "version_views":  2
+                                            },
+                                  "state":  "done",
+                                  "submitted":  true
+                              },
+                              {
+                                  "created":  "2025-12-19T13:23:09.711012+00:00",
+                                  "modified":  "2025-12-19T13:23:10.016029+00:00",
+                                  "id":  17988348,
+                                  "conceptrecid":  "17988347",
+                                  "doi":  "10.5281/zenodo.17988348",
+                                  "conceptdoi":  "10.5281/zenodo.17988347",
+                                  "doi_url":  "https://doi.org/10.5281/zenodo.17988348",
+                                  "metadata":  {
+                                                   "title":  "RANNTAverse — TON-Native NFT Marketplace",
+                                                   "doi":  "10.5281/zenodo.17988348",
+                                                   "publication_date":  "2025-12-19",
+                                                   "description":  "\u003cp\u003eRANNTAverse is a TON-native and multi-chain NFT marketplace that operates as a core production layer of the RANNTA Protocol ecosystem. It enables minting, direct listings, auctions, and symbolic digital assets aligned with Mythosymbolic Fractalism (MSF).\u003c/p\u003e\n\u003cp\u003eThe RANNTA ecosystem is structured across distinct canonical interfaces:\u003cbr\u003e\u0026bull; Marketplace (primary): https://ranntaverse.art\u003cbr\u003e\u0026bull; Ecosystem \u0026amp; protocol identity: https://rannta.com\u003cbr\u003e\u0026bull; Application interface: https://ranntaverse.app\u003c/p\u003e\n\u003cp\u003eRANNTAverse functions as the execution and distribution layer for NFT creation and exchange, while the RANNTA Protocol defines the canonical on-chain identity and symbolic framework.\u003c/p\u003e\n\u003cp\u003eOfficial channels:\u003cbr\u003e\u0026bull; Telegram: https://t.me/Rannta_coin\u003cbr\u003e\u0026bull; X (Twitter): https://x.com/ranntacoin\u003cbr\u003e\u0026bull; GitHub (Founder): https://github.com/ilia144000\u003c/p\u003e\n\u003cp\u003eCanonical reference: RANNTA Knowledge Hub (Zenodo)\u003c/p\u003e",
+                                                   "access_right":  "open",
+                                                   "creators":  [
+                                                                    {
+                                                                        "name":  "Ghafari, ilia",
+                                                                        "affiliation":  "RANNTA Protocol",
+                                                                        "orcid":  "0009-0001-9044-4662"
+                                                                    }
+                                                                ],
+                                                   "keywords":  [
+                                                                    "RANNTA, Blockchain Protocol, TON, Crypto Ecosystem, Web3"
+                                                                ],
+                                                   "dates":  [
+                                                                 {
+                                                                     "type":  "issued"
+                                                                 }
+                                                             ],
+                                                   "version":  "1.0.0",
+                                                   "language":  "eng",
+                                                   "resource_type":  {
+                                                                         "title":  "Software",
+                                                                         "type":  "software"
+                                                                     },
+                                                   "license":  {
+                                                                   "id":  "mit-license"
+                                                               },
+                                                   "relations":  {
+                                                                     "version":  [
+                                                                                     {
+                                                                                         "index":  0,
+                                                                                         "is_last":  false,
+                                                                                         "parent":  {
+                                                                                                        "pid_type":  "recid",
+                                                                                                        "pid_value":  "17988347"
+                                                                                                    }
+                                                                                     }
+                                                                                 ]
+                                                                 }
+                                               },
+                                  "title":  "RANNTAverse — TON-Native NFT Marketplace",
+                                  "links":  {
+                                                "self":  "https://zenodo.org/api/records/17988348",
+                                                "self_html":  "https://zenodo.org/records/17988348",
+                                                "preview_html":  "https://zenodo.org/records/17988348?preview=1",
+                                                "doi":  "https://doi.org/10.5281/zenodo.17988348",
+                                                "self_doi":  "https://doi.org/10.5281/zenodo.17988348",
+                                                "self_doi_html":  "https://zenodo.org/doi/10.5281/zenodo.17988348",
+                                                "reserve_doi":  "https://zenodo.org/api/records/17988348/draft/pids/doi",
+                                                "parent":  "https://zenodo.org/api/records/17988347",
+                                                "parent_html":  "https://zenodo.org/records/17988347",
+                                                "parent_doi":  "https://doi.org/10.5281/zenodo.17988347",
+                                                "parent_doi_html":  "https://zenodo.org/doi/10.5281/zenodo.17988347",
+                                                "self_iiif_manifest":  "https://zenodo.org/api/iiif/record:17988348/manifest",
+                                                "self_iiif_sequence":  "https://zenodo.org/api/iiif/record:17988348/sequence/default",
+                                                "files":  "https://zenodo.org/api/records/17988348/files",
+                                                "media_files":  "https://zenodo.org/api/records/17988348/media-files",
+                                                "thumbnails":  {
+                                                                   "10":  "https://zenodo.org/api/iiif/record:17988348:rannta-ton-512.png/full/%5E10,/0/default.jpg",
+                                                                   "50":  "https://zenodo.org/api/iiif/record:17988348:rannta-ton-512.png/full/%5E50,/0/default.jpg",
+                                                                   "100":  "https://zenodo.org/api/iiif/record:17988348:rannta-ton-512.png/full/%5E100,/0/default.jpg",
+                                                                   "250":  "https://zenodo.org/api/iiif/record:17988348:rannta-ton-512.png/full/%5E250,/0/default.jpg",
+                                                                   "750":  "https://zenodo.org/api/iiif/record:17988348:rannta-ton-512.png/full/%5E750,/0/default.jpg",
+                                                                   "1200":  "https://zenodo.org/api/iiif/record:17988348:rannta-ton-512.png/full/%5E1200,/0/default.jpg"
+                                                               },
+                                                "archive":  "https://zenodo.org/api/records/17988348/files-archive",
+                                                "archive_media":  "https://zenodo.org/api/records/17988348/media-files-archive",
+                                                "latest":  "https://zenodo.org/api/records/17988348/versions/latest",
+                                                "latest_html":  "https://zenodo.org/records/17988348/latest",
+                                                "versions":  "https://zenodo.org/api/records/17988348/versions",
+                                                "draft":  "https://zenodo.org/api/records/17988348/draft",
+                                                "access_links":  "https://zenodo.org/api/records/17988348/access/links",
+                                                "access_grants":  "https://zenodo.org/api/records/17988348/access/grants",
+                                                "access_users":  "https://zenodo.org/api/records/17988348/access/users",
+                                                "access_request":  "https://zenodo.org/api/records/17988348/access/request",
+                                                "access":  "https://zenodo.org/api/records/17988348/access",
+                                                "communities":  "https://zenodo.org/api/records/17988348/communities",
+                                                "communities-suggestions":  "https://zenodo.org/api/records/17988348/communities-suggestions",
+                                                "request_deletion":  "https://zenodo.org/api/records/17988348/request-deletion",
+                                                "file_modification":  "https://zenodo.org/api/records/17988348/file-modification",
+                                                "requests":  "https://zenodo.org/api/records/17988348/requests"
+                                            },
+                                  "updated":  "2025-12-19T13:23:10.016029+00:00",
+                                  "recid":  "17988348",
+                                  "revision":  3,
+                                  "files":  [
+                                                {
+                                                    "id":  "ad403eca-f18f-4836-8c97-8e2f0266d01f",
+                                                    "key":  "rannta-ton-512.png",
+                                                    "size":  121207,
+                                                    "checksum":  "md5:4fd96c73041765db0bcf69c4edf8e9cd",
+                                                    "links":  {
+                                                                  "self":  "https://zenodo.org/api/records/17988348/files/rannta-ton-512.png/content"
+                                                              }
+                                                }
+                                            ],
+                                  "swh":  null,
+                                  "owners":  [
+                                                 {
+                                                     "id":  "1388508"
+                                                 }
+                                             ],
+                                  "status":  "published",
+                                  "stats":  {
+                                                "downloads":  1,
+                                                "unique_downloads":  1,
+                                                "views":  6,
+                                                "unique_views":  4,
+                                                "version_downloads":  0,
+                                                "version_unique_downloads":  0,
+                                                "version_unique_views":  2,
+                                                "version_views":  4
+                                            },
+                                  "state":  "done",
+                                  "submitted":  true
+                              }
+                          ],
+                 "total":  2
+             },
+    "links":  {
+                  "self":  "https://zenodo.org/api/records/17988923/versions?page=1\u0026size=25\u0026sort=version"
+              }
+}
