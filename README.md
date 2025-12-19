@@ -153,3 +153,5 @@ Any external reference should treat this repository as read-only source of truth
   }
 }
 
+---
+_Last updated: December 2025_
