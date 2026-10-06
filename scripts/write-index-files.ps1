@@ -73,8 +73,7 @@ title: "RANNTA Zenodo Archive (Canonical DOI Mirror)"
 message: "If you use this repository, its synced Zenodo metadata snapshots, or its indexing schemas, please cite it as below."
 authors:
 
-family-names: Ghafari
-given-names: Ilia
+family-names: "ilia144000"
 orcid: $Orcid
 repository-code: $RepoUrl
 url: $Website
@@ -112,8 +111,7 @@ type: software
 title: "RANNTA Zenodo Archive (Canonical DOI Mirror)"
 authors:
 
-family-names: Ghafari
-given-names: Ilia
+family-names: "ilia144000"
 orcid: $Orcid
 url: $RepoUrl
 version: "1.0.0"
@@ -134,7 +132,7 @@ $schemaObj = [ordered]@{
 "url" = $RepoUrl
 "creator" = [ordered]@{
 "@type" = "Person"
-"name" = "Ilia Ghafari"
+"name" = "ilia144000"
 "identifier" = $Orcid
 "url" = $GithubFounder
 }
